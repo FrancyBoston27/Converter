@@ -35,5 +35,5 @@ But if you want to support me anyway, you can write in the "Issues" section, to 
 Vuoi contribuire? Grazie, ma non so come farlo!
 Ma se vuoi supportarmi lo stesso, puoi scrivere nella sezione "Issues", per aggiungere nuove lingue all'applicazione
 
-### Licensa
+### Licenza
 **OpenSource**
