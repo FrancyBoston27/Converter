@@ -1,38 +1,40 @@
 ![Education_(684)](https://user-images.githubusercontent.com/79326795/142071855-564f2b33-df2f-4052-ab75-0606a0eff67e.png)
-## Welcome to GitHub Pages
+# Converter
 
-You can use the [editor on GitHub](https://github.com/FranyBoston27/Converter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## English
+**Converter** is a program that allows you to perform conversions between the most common numerical bases in computer science, ie **binary**, **octal** and **hexadecimal** base. All offline, and with an intuitive graphical interface!
 
-```markdown
-Syntax highlighted code block
+### Features
 
-# Header 1
-## Header 2
-### Header 3
+- Completely offline
+- Fast
+- 2 Languages
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Development
 
-**Bold** and _Italic_ and `Code` text
+Want to contribute? Great! But I don't know how do this!
+But if you want to support me anyway, you can write in the "Issues" section, to add new languages to the application
 
-[Link](url) and ![Image](src)
-```
+### License
+**OpenSource**
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Italiano
+**Converter** è un programma che ti permette di eseguire conversioni tra le basi numeriche più comuni nell'informatica, cioè base **binaria**, **ottale** e **esadecimale**. Il tutto offline, e con un interfaccia grafica intuitiva!
 
-### Jekyll Themes
+### Features
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FranyBoston27/Converter/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Completamente offline
+- Veloce
+- 2 Lingue
 
-### Support or Contact
+### Sviluppo
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Vuoi contribuire? Grazie, ma non so come farlo!
+Ma se vuoi supportarmi lo stesso, puoi scrivere nella sezione "Issues", per aggiungere nuove lingue all'applicazione
+
+### Licenza
+**OpenSource**
