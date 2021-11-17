@@ -1,4 +1,3 @@
-![Education_(684)](https://user-images.githubusercontent.com/79326795/142071855-564f2b33-df2f-4052-ab75-0606a0eff67e.png)
 # Converter
 
 
