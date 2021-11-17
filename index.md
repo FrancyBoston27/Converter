@@ -1,4 +1,4 @@
-https://github.com/KrakenByte27/Converter/releases
+Download: https://github.com/KrakenByte27/Converter/releases
 # Converter
 
 
