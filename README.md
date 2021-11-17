@@ -1,5 +1,3 @@
-https://github.com/KrakenByte27/Converter/releases/download/Stable/Converter.Install.exe
-https://github.com/KrakenByte27/Converter/releases/download/Stable/Converter.Portable.zip
 # Converter
 
 
