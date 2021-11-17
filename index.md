@@ -12,6 +12,9 @@
 - Fast
 - 2 Languages
 
+### Download
+
+[GitHub](https://github.com/KrakenByte27/Converter/releases)
 
 ### Development
 
@@ -29,6 +32,10 @@ But if you want to support me anyway, you can write in the "Issues" section, to 
 - Completamente offline
 - Veloce
 - 2 Lingue
+
+### Download
+
+[GitHub](https://github.com/KrakenByte27/Converter/releases)
 
 ### Sviluppo
 
