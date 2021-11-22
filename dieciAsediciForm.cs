@@ -106,7 +106,7 @@ namespace Convertitore
         {
             if (languagename == 1)
             {
-                messagebox1 = "Inserisci solo cifre da 0 e 9 e letter da A a F";
+                messagebox1 = "Inserisci solo cifre da 0 e 9 e lettere da A a F";
             }
             else if (languagename == 0)
             {
